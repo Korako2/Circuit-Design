@@ -34,4 +34,4 @@
 
 ### Схема сопряжения функционального блока со схемой тестирования
 
-<img src="img/schema.png" width="350px" />
+<img src="img/schema.png"  />
